@@ -1,0 +1,27 @@
+_repo: Robert-Browning_12817
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Dowden, Edward
+    birthdate: 1843
+    deathdate: 1913
+    gutenberg_agent_id: '4643'
+    url: http://www.gutenberg.org/2009/agents/4643
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Dowden
+description: ''
+gutenberg_issued: '2004-07-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12817'
+  lccn: 04019421
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Poets, English -- 19th century -- Biography'
+- !lcsh 'Browning, Robert, 1812-1889'
+- GITenberg
+title: Robert Browning
+url: http://www.gutenberg.org/ebooks/12817
